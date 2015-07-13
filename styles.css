@@ -1,0 +1,12 @@
+h1 {
+	font-size: 20px;
+	color: #5C85FF;
+	font-family:Arial
+}
+p {
+	font-family: Arial;
+	font-size:15px
+}
+table {
+	border: 2px solid red;
+}
