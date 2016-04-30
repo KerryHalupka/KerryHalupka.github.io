@@ -23,6 +23,13 @@ h1 {
   margin: 0.5em 0 1em 0;
 }
 
+h3 {
+  text-align: center;
+  color: white;
+  font-weight: 150;
+  margin: 0.5em 0 1em 0;
+}
+
 section {
   display: block;
   max-width: 500px;
@@ -177,7 +184,7 @@ hr.small {
 /* Header */
 
 .header {
-    display: table;
+ /*   display: table;
     position: relative;
     width: 100%;
     height: 100%;
@@ -185,7 +192,22 @@ hr.small {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover;
+    -o-background-size: cover;*/
+    display: block;
+  max-width: 500px;
+  background: #E74C3C;
+  margin: 0 auto 1em;
+  height: 150px;
+  border-radius: .2em;
+  position: relative;
+  color: white;
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  img, p {
+    padding: 1em;
+    margin: 0;
+  }
 }
 
 /* About */
