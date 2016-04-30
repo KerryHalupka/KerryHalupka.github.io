@@ -199,10 +199,10 @@ hr.small {
     -o-background-size: cover;*/
     display: block;
   max-width: 500px;
-  background: #E74C3C;
+  background: #000000;
   margin: 0 auto 1em;
   height: 150px;
-  border-radius: .2em;
+  border-radius: .4em;
   position: relative;
   color: white;
   -webkit-transform-style: preserve-3d;
